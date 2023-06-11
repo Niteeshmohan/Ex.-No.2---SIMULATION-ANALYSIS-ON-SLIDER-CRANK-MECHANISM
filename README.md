@@ -46,7 +46,6 @@
 ## Output
 ![eig](2.png)
 
-
 ### Name:NITEESH.M
 ### Register Number:212222230098
 
